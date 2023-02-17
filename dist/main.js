@@ -1,0 +1,1 @@
+(()=>{"use strict";var e;console.log("worked"),console.log((e={name:"Маг",health:90}).health>50?"healthy":e.health<=50&&e.health>=15?"wounded":"critical")})();
