@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/pu7qsfcd3u3k8pg1?svg=true)](https://ci.appveyor.com/project/Elena-German/ajs-homeworks-unit-test)
